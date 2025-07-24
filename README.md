@@ -21,7 +21,7 @@ The data used is a CSV file containing company layoff information, including fie
 ---
 
 ## Cleaning Steps
--- 1. Remove duplicates
--- 2. Standardize data
--- 3. Null & blank values
--- 4. Remove any columns or rows
+1. Remove duplicates
+2. Standardize data
+3. Null & blank values
+4. Remove any columns or rows
