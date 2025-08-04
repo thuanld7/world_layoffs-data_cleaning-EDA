@@ -1,5 +1,5 @@
 -- Exploratory Data Analysis
-
+ 
 -- 1. Explore the Data Structure
 -- View sample data
 SELECT TOP 10 *
@@ -78,3 +78,4 @@ SELECT *
 FROM company_year_ranking 
 WHERE ranking <= 5
 ORDER BY years
+
